@@ -1,7 +1,6 @@
-{
-    "Tests": { 
-            {
-                 "id": 0,
+{    "AllTestsssssss": {
+       
+            {   "id": 0,
                 "block": 1,
                 "name": "Test 1 ",
                 "pictureLink": "https://cdn.pixabay.com/photo/2014/09/20/20/24/serpentine-454249_960_720.jpg"
@@ -44,7 +43,8 @@
                 "name": "Test 8",
                 "pictureLink": "https://cdn.pixabay.com/photo/2014/09/20/20/24/serpentine-454249_960_720.jpg"
             }
-}
+
+    },
  
     "AllTests": {
         "data": [
